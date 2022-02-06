@@ -1,3 +1,25 @@
+h2:first-child {
+    color: aqua;
+    padding: 1%;
+    background-color: ;
+    }
+
+.presentation {
+    padding: 1%;
+    background-color: ;
+}
+
+.showcase {
+    padding: 1%;
+    background-color: ;
+}
+
+
+
+    .card {
+        padding: 5%;
+        background-color: transparent;
+    }
 /**
  * Add your custom styles below
  * 
